@@ -18,6 +18,16 @@ As the train enters a block, the corresponding signal changes to **RED**, indica
 4. After `Timer_2` completes, the train moves to **Block 3**.
 5. After `Timer_3` completes, the train exits the system.
 6. All states are reset, making the system ready for the next departure.
+
+### Concepts Demonstrated
+
+* PLC State Machine Design
+* Timer-Based Sequencing
+* Railway Block Signaling Concepts
+* Occupancy Detection Logic
+* Latch and Unlatch Operations
+* Safe Train Movement Simulation
+
 ---
 
 ## Nomenclature
@@ -77,3 +87,4 @@ To observe the sequence:
 3. Toggle **Dept_Signal**.
 4. Observe the timers, block occupancy states, and signal transitions as the train progresses through the three blocks.
 5. After Block 3 is completed, the system automatically resets and waits for the next departure command.
+
