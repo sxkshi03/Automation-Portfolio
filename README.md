@@ -29,4 +29,9 @@ To develop a PLC-based metro automation system that controls train movement thro
 
 * [Metro Automation System Part 1 - Ladder Logic Simulation](./Metro_Automation_System_Part_1.mp4)
 
+## Working 
+
+[Theory & Nomenclature](./Theory%20%26%20Nomenclature.md)
+
+
   
