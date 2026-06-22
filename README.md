@@ -31,7 +31,7 @@ To develop a PLC-based metro automation system that controls train movement thro
 
 ## Working 
 
-*[Theory & Nomenclature](./Theory%20%26%20Nomenclature.md)
+* [Theory & Nomenclature](./Theory%20%26%20Nomenclature.md)
 
 
   
