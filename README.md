@@ -19,3 +19,14 @@ To develop a PLC-based metro automation system that controls train movement thro
 - OTL / OTU
 - RES
 - Compare Logic
+
+## Ladder Logic 
+
+Ladder_Logic.jpg
+Ladder_Logic.2.png
+
+## Simulation of ladder logic 
+
+Metro Automation System Part 1 - Ladder Logic Simulation
+
+  
